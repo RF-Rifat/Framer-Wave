@@ -1,4 +1,4 @@
-# framer-wave
+# Framer-Wave
 
 <p align="center">
   <img src="https://github.com/RF-Rifat/Framer-Wave/blob/main/public/Logo-2.gif?raw=true" alt="Framer-Wave Logo" width="200" height="200">
