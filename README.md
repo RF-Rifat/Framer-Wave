@@ -1,7 +1,8 @@
-
 # framer-wave
 
-![framer-wave logo](https://github.com/RF-Rifat/Framer-Wave/blob/main/public/Framer-Wave-Logo.gif?raw=true/200x100)
+<p align="center">
+  <img src="https://github.com/RF-Rifat/Framer-Wave/blob/main/public/Framer-Wave-Logo.gif?raw=true" alt="Framer-Wave Logo" width="150" height="75">
+</p>
 
 **framer-wave** is an animation component library built with Tailwind CSS and Framer Motion, aimed at providing developers with ready-to-use animation components for web applications.
 
@@ -15,7 +16,6 @@
 ## Installation
 
 You can install **framer-wave** via npm or yarn:
-
 
 ```bash
 git clone https://github.com/RF-Rifat/Framer-Wave.git
@@ -51,3 +51,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```
