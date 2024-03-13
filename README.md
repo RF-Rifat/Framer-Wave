@@ -1,7 +1,7 @@
 # framer-wave
 
 <p align="center">
-  <img src="https://github.com/RF-Rifat/Framer-Wave/blob/main/public/Framer-Wave-Logo.gif?raw=true" alt="Framer-Wave Logo" width="150" height="75">
+  <img src="https://github.com/RF-Rifat/Framer-Wave/blob/main/public/Framer-Wave-Logo.gif?raw=true" alt="Framer-Wave Logo" width="200" height="200">
 </p>
 
 **framer-wave** is an animation component library built with Tailwind CSS and Framer Motion, aimed at providing developers with ready-to-use animation components for web applications.
