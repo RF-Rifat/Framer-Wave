@@ -1,7 +1,7 @@
 
 # framer-wave
 
-![framer-wave logo](https://placehold.it/200x100)
+![framer-wave logo](/Framer-Wave-Logo.gif/200x100)
 
 **framer-wave** is an animation component library built with Tailwind CSS and Framer Motion, aimed at providing developers with ready-to-use animation components for web applications.
 
