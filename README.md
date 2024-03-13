@@ -1,18 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# framer-wave
 
-First, run the development server:
+![framer-wave logo](https://placehold.it/200x100)
+
+**framer-wave** is an animation component library built with Tailwind CSS and Framer Motion, aimed at providing developers with ready-to-use animation components for web applications.
+
+## Features
+
+- Ready-to-use animation components.
+- Built with Tailwind CSS for easy customization.
+- Powered by Framer Motion for smooth animations.
+- Lightweight and customizable.
+
+## Installation
+
+You can install **framer-wave** via npm or yarn:
+
 
 ```bash
+git clone https://github.com/RF-Rifat/Framer-Wave.git
+
+cd framer-wave
+
+npm install
+
 npm run dev
 # or
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
