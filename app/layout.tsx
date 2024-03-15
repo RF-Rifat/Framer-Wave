@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { Nunito_Sans } from "next/font/google";
+// import { Nunito_Sans } from "next/font/google";
 import "./globals.css";
 
-const inter = Nunito_Sans({ subsets: ["cyrillic-ext"] });
+// const inter = Nunito_Sans({ subsets: ["cyrillic-ext"] });
 
 export const metadata: Metadata = {
   title: "Framer-Wave",
@@ -18,7 +18,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <link rel="icon" href="/Logo.png" sizes="any" />
-      <body className={inter.className}>{children}</body>
+      <body >{children}</body>
     </html>
   );
 }
+
+
+
+
+
+
+
